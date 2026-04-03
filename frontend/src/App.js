@@ -77,7 +77,7 @@ const Header = () => {
             <div className="w-10 h-10 rounded-full bg-[#2C5234] flex items-center justify-center">
               <FileText className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-[#1C1C1A]">Solutions TMF</span>
+            <span className="text-xl font-bold text-[#1C1C1A]">Retraite Simplifiée</span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -1044,7 +1044,7 @@ const Footer = () => {
               <div className="w-10 h-10 rounded-full bg-[#2C5234] flex items-center justify-center">
                 <FileText className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold">Solutions TMF</span>
+              <span className="text-xl font-bold">Retraite Simplifiée</span>
             </div>
             <p className="text-[#F9F9F7]/70 mb-6 max-w-md">
               Votre partenaire pour comprendre et optimiser votre retraite. 
@@ -1078,7 +1078,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-[#F9F9F7]/10 pt-8 text-center text-[#F9F9F7]/50 text-sm">
-          <p>© {new Date().getFullYear()} Solutions TMF. Tous droits réservés.</p>
+          <p>© {new Date().getFullYear()} Retraite Simplifiée. Tous droits réservés.</p>
           <p className="mt-2">
             Ce service fournit une analyse informative et pédagogique. Il ne constitue pas un conseil financier ou juridique.
           </p>

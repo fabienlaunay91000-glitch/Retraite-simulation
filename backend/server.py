@@ -1348,7 +1348,7 @@ Nous analysons votre relevé et identifions :
 
 @api_router.get("/")
 async def root():
-    return {"message": "API Solutions TMF - Analyse Retraite"}
+    return {"message": "API Retraite Simplifiée"}
 
 @api_router.post("/contact", response_model=ContactForm)
 async def submit_contact(input: ContactFormCreate):
